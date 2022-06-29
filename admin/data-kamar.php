@@ -16,7 +16,7 @@
                                 <th>Harga</th>
                                 <th>Jenis Kamar</th>
                                 <th>Keterangan</th>
-                                <th>Action</th>
+                                <th>Actionn</th>
                             </tr>
                         </thead>
                         <tbody>
