@@ -8,7 +8,7 @@
 
         <div class="row">
             <div class="col">
-                <p class="lead">Aplikasi Systems <?= $hotelName; ?></p>
+                <p class="lead">Aplikasi Systemss <?= $hotelName; ?></p>
             </div>
         </div>
     </div>
